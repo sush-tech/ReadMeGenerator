@@ -25,7 +25,7 @@
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
 
   ## Contributing
-  github.com/sush-tech/ReadMeGenerator
+ Current project code - https://github.com/sush-tech/ReadMeGenerator
 
   ## Tests
   no tests have been written for this application yet
@@ -37,3 +37,4 @@
 
   ## Credits
 https://github.com/sarawrmas/readme-generator/blob/main/index.js
+
